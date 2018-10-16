@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main()\\funtion header
+{
+cout<<"hello world"<< endl;
+cout<<"programming is fun!"<< endl;
+
+return 0;
+}
